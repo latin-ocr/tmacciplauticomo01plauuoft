@@ -1,0 +1,47 @@
+SIGLA
+
+A= Ambrosianus palimpsestus (G 82 sup. ), saeC. iii- iv
+B= Palatinus Vaticanus (1612), saec. Χ- xi
+C= Palatinus Heidelbergensis (1613), saec. x— xi
+codd. = AP
+cod. = P (ubi A deest) vel A (ubi P deest)
+D = Vaticanus (3870), saec. x-xi
+E = Ambrosianus (Ι 257 inf.), saec. xii ex,
+J= Londinensis (Mus. Britann.‚ Reg. 15 C XI), saec. xii in.
+O = fragmentum Ottobonianum Vaticanum (misc. Lat. 687),
+saec. xl
+P = archetypus codicum ‘ Palatinae ' recensionis vel fons
+codicum BCDE VJO et correctionum Β3. In partibus
+iis ubi T praesto est (Bacch. 35- 80, 570— 650, 810-
+900, Pers„ Poen„ Pseud. 730—fin„ 'Rud. init. -790)
+idem siglum pro I’2A adhibetur.
+ΡΑ = proarchetypus ‘ Palatinae' recensionis vel fons codicum
+P et T
+pac = sons codicum B (in parte altera) et PCD
+PBD = fons codicum B (in parte priori) et DPE
+pen = fons codicum C et D
+PE = fons codicum EV et Ρ]
+PJ = fons codicum JO et correctionum V²
+Τ = deperditus codex Turnebi vel fragmenta Senonensia
+V= Vossianus Leidensis (Q 30), saec. xii in.
+In textu apicibus ictus metricus indicatur ; lineis inter vocabula
+ductis hiatus. f
+N umerationem versuum quae est in Teubneriana editione
+maiori conservare volui.
+In adnotatione :
+numeri uncinis inclusi spectant ad capita et capitum particulas
+in libello meo supra memorato (‘ Introduction to Latin Textual
+E1nendation‚' Macmillan„ Lond., 1896), quem Francogallice
+reddidit Ι. Waltzing (Paris, Klincksieck., 1898).
+Vocabula a capitali littera incipientia stant in initiis versuum.
+In lectionibus Palimpsesti (A) enarrandis haec animadver-
+tenda 3 punctis singulis singulae indicantur litterae quae omnino
+legi non possunt ; puncto sub littera posito indicatur eam litteram
+dubiam esse3 litterae quae intra uncinos stant legi quidem non
+possunt sed coniectura restitui3 linea recta indicat neque nu-
+merum litterarum neque formas ullo modo legi nec conici posse.
+
+l
+
+XX
+
